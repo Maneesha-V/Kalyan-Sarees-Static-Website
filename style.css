@@ -57,3 +57,21 @@
     margin: -1rem;
     margin-right: -2rem;
 }
+.slider-pagination {
+    display: block;
+    position: absolute;
+    margin: 10rem 4rem;
+    width: 100%;
+  }
+  
+.slider-pagination a {
+    color: #ffffff;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+     
+}
+.slider-pagination-center{
+      text-align: center;
+      font-size: smaller;
+}
